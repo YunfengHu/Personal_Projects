@@ -1,0 +1,130 @@
+Food,Measure,Weight (g),kCal,Fat (g),Carbo(g),Protein (g),Words,MatchedFood,Calcium [mg],Serving Size,Weight [g],percent water,Energy [kcal],Fiber [g],Cholesterol [mg],Saturate Fat [g],Monosat Fat [g],Polyunsat Fat [g],Iron [mg],Magnesium [mg],Sodium [mg],Phosphorous [mg],Ca:P ratio,Potassium [mg],Zinc [mg],Niacin [mg],Thiamin [mg],Riboflavin [mg],Vit A [RE],Vit B6 [mg],Vit C [mg],Food type
+"1000 Island, Salad Drsng,Local",1 Tbsp,15,25,2,2,0,"['1000', 'Island', 'Salad', 'Drsng', 'Local']",Salad Dressing 1000 Island,2,1 tbsp,16,46,60,0,4,1,1.3,3.2,0.1,1,110,3,0.67,18,0,0.03,0.01,0.01,15,0.01,0,FATS AND OILS
+"1000 Island, Salad Drsng,Reglr",1 Tbsp,16,60,6,2,0,"['1000', 'Island', 'Salad', 'Drsng', 'Reglr']",Salad Dressing 1000 Island,2,1 tbsp,16,46,60,0,4,1,1.3,3.2,0.1,1,110,3,0.67,18,0,0.03,0.01,0.01,15,0.01,0,FATS AND OILS
+"Apple Juice, Canned",1 Cup,248,115,0,29,0,"['Apple', 'Juice', 'Canned']",Apple juice,17,1 cup,248,88,116,0.5,0,0,0,0.1,0.9,8,7,17,1,295,0.1,0.25,0.05,0.04,0,0.07,2,FRUITS
+"Apples, Raw, Peeled, Sliced",1 Cup,110,65,0,16,0,"['Apples', 'Raw', 'Peeled', 'Sliced']",Apples raw with peel 2 3/4 diam,10,1 ea,138,84,80,4.3,0,0.1,0,0.1,0.3,6,1,10,1,159,0,0.11,0.02,0.02,7,0.07,8,FRUITS
+"Apricot Nectar, No Added Vit C",1 Cup,251,140,0,36,1,"['Apricot', 'Nectar', 'No', 'Added', 'Vit', 'C']",Apricot nectar canned,18,1 cup,251,85,141,1.5,0,0,0.1,0,1,13,8,23,0.78,286,0.2,0.65,0.02,0.04,330,0.16,2,FRUITS
+"Beer, Light",12 fl oz,355,95,0,5,1,"['Beer', 'Light']",Beer Light (12 fl oz),18,1 1/2 cups,354,95,100,0.3,0,0,0,0,0.1,18,10,43,0.42,64,0.1,0.01,0.01,0.01,0,0.12,0,BEVERAGES
+"Beer, Regular",12 fl oz,360,150,0,13,1,"['Beer', 'Regular']",Beer Regular (12 fl oz),18,1 1/2 cups,356,92,146,0.7,0,0,0,0,0.1,23,19,44,0.41,89,0.1,1.61,0.02,0.09,0,0.18,0,BEVERAGES
+"Beets, Cooked, Drained, Diced",1 Cup,170,55,0,11,2,"['Beets', 'Cooked', 'Drained', 'Diced']",Beets cooked sliced or diced,9,1/2 cup,85,91,26,2,0,0,0,0,0.5,31,42,26,0.35,266,0.2,0.23,0.03,0.01,1,0.03,5,VEGETABLES AND LEGUMES
+"Beets, Cooked, Drained, Whole",2 Beets,100,30,0,7,1,"['Beets', 'Cooked', 'Drained', 'Whole']",Beets cooked sliced or diced,9,1/2 cup,85,91,26,2,0,0,0,0,0.5,31,42,26,0.35,266,0.2,0.23,0.03,0.01,1,0.03,5,VEGETABLES AND LEGUMES
+"Blackberries, Raw",1 Cup,144,75,1,18,1,"['Blackberries', 'Raw']",Blackberries raw,46,1 cup,144,86,74,9.7,0,0.3,0.1,0.1,0.8,29,0,30,1.53,282,0.4,0.58,0.04,0.06,24,0.08,30,FRUITS
+Blue Cheese,1 oz,28.35,100,8,1,6,"['Blue', 'Cheese']",Cheese - Blue,150,1 oz,28,42,100,0,21,5.3,2.2,0.2,0.1,7,396,110,1.36,73,0.8,0.29,0.01,0.11,65,0.05,0,DAIRY
+Blue Cheese Salad Dressing,1 Tbsp,15,75,8,1,1,"['Blue', 'Cheese', 'Salad', 'Dressing']",Salad Dressing - Blue Cheese,12,1 tbsp,15,32,75,0,3,1.5,1.9,4.3,0,1,0.3,11,1.09,6,0.3,0.01,0.01,0.02,10,0.01,0,FATS AND OILS
+"Blueberries, Raw",1 Cup,145,80,1,20,1,"['Blueberries', 'Raw']",Blueberries raw,9,1 cup,145,85,82,4.9,0,0,0.2,0.3,0.2,7,9,15,0.6,129,0.2,0.7,0.07,0.07,15,0.05,20,FRUITS
+"Buttermilk, Dried",1 Cup,120,465,7,59,41,"['Buttermilk', 'Dried']",Buttermilk,285,1 cup,245,90,99,0,9,1.3,0.6,0.1,0.1,26,257,219,1.3,371,1,0.14,0.08,0.38,20,0.08,2,DAIRY
+"Buttermilk, Fluid",1 Cup,245,100,2,12,8,"['Buttermilk', 'Fluid']",Buttermilk,285,1 cup,245,90,99,0,9,1.3,0.6,0.1,0.1,26,257,219,1.3,371,1,0.14,0.08,0.38,20,0.08,2,DAIRY
+"Carrots, Raw, Whole",1 Carrot,72,30,0,7,1,"['Carrots', 'Raw', 'Whole']",Carrots whole raw,19,1 carrot,72,88,31,2,0,0,0,0.1,0.4,11,25,32,0.59,233,0.1,0.67,0.07,0.04,2025,0.11,7,VEGETABLES AND LEGUMES
+"Cauliflower, Cooked From Raw",1 Cup,125,30,0,6,2,"['Cauliflower', 'Cooked', 'From', 'Raw']","Cauliflower - Cooked, raw",17,1/2 cup,62,92,15,1.7,0,0,0,0.1,0.3,7,4,22,0.77,200,0.1,0.34,0.04,0.04,0,0.12,34,VEGETABLES AND LEGUMES
+"Celery, Pascal Type, Raw,Stalk",1 Stalk,40,5,0,1,0,"['Celery', 'Pascal', 'Type', 'Raw', 'Stalk']","Celery, pascal large stalk",14,1 stalk,40,95,6,0.8,0,0,0,0,0.2,5,0.35,10,1.4,114,0.1,0.12,0.01,0.01,5,0.01,3,VEGETABLES AND LEGUMES
+Cheddar Cheese,1 oz,28.35,115,9,0,7,"['Cheddar', 'Cheese']",Cheese - Cheddar cut pieces,204,1 oz,28,37,114,0,30,6,2.7,0.3,0.2,8,176,146,1.4,28,0.9,0.02,0.01,0.11,86,0.02,0,DAIRY
+"Cherries, Sweet, Raw",10 Chery,68,50,1,11,1,"['Cherries', 'Sweet', 'Raw']",Cherries sweet raw without pits,10,10 ea,68,81,49,1.3,0,0.1,0.2,0.2,0.3,8,0,13,0.77,152,0,0.3,0.03,0.04,15,0.02,5,FRUITS
+"Chocolate Chip Cookies,Commrcl",4 Cookie,42,180,9,28,2,"['Chocolate', 'Chip', 'Cookies', 'Commrcl']",Chocolate Chip cookies commercial,16,4 ea,42,4,180,0.2,5,2.9,3.1,2.6,0.8,9,140,41,0.39,56,0.3,0.9,0.1,0.23,15,0.02,0,BAKED GOODS
+"Clams, Raw",3 oz,85,65,1,2,11,"['Clams', 'Raw']",Clams - raw,59,3 oz,85,82,65,0,43,0.3,0.3,0.3,2.6,31,102,138,0.43,154,1.4,1.1,0.09,0.15,26,0.07,9,FISH/SHELLFISH
+"Coffee, Brewed",6 fl oz,180,0,0,0,0,"['Coffee', 'Brewed']",Coffee Brewed,4,1 cup,240,99,2,0,0,0,0,0,1,14,5,2,2,130,0,0.53,0,0,0,0,0,BEVERAGES
+"Coffee, Instant, Prepared",6 fl oz,182,0,0,1,0,"['Coffee', 'Instant', 'Prepared']",Coffee Instant,8,1 cup,240,99,2,0,0,0,0,0,0.1,11,8,8,1,87,0.1,0.69,0,0.01,0,0,0,BEVERAGES
+Corn Chips,1 oz,28.35,155,9,16,2,"['Corn', 'Chips']",Corn Chips,35,1 oz,28,1,155,0.3,0,1.4,2.4,3.7,0.5,19,233,52,0.67,52,0.4,0.4,0.04,0.05,11,0.04,1,BAKED GOODS
+Corn Oil,1 Cup,218,1925,218,0,0,"['Corn', 'Oil']",Oil - Corn,0,1/4 cup,54,0,482,0,0,6.9,13.2,32,0,0,0,1,0,0,0.1,0,0,0,0,0,0,FATS AND OILS
+Cream Cheese,1 oz,28.35,100,10,1,2,"['Cream', 'Cheese']",Cheese - Cream,23,1 oz,28,54,99,0,31,6.2,2.8,0.4,0.3,2,84,30,0.77,34,0.3,0.03,0.01,0.06,124,0.01,0,DAIRY
+"Custard, Baked",1 Cup,265,305,15,29,14,"['Custard', 'Baked']",Custard baked,297,1 cup,265,77,305,0,278,6.8,5.4,0.7,1.1,37,209,310,0.96,387,1.5,0.3,0.11,0.5,146,0.13,1,DAIRY
+"Dates, Chopped",1 Cup,178,490,1,131,4,"['Dates', 'Chopped']",Dates whole without pits,27,10 ea,83,22,228,7.2,0,0.2,0.1,0,1,29,2,33,0.82,541,0.2,1.83,0.07,0.08,4,0.16,0,FRUITS
+"Eggs, Raw, Yolk",1 Yolk,17,60,5,0,3,"['Eggs', 'Raw', 'Yolk']",Raw Yolk,26,1 ea,17,49,63,0,272,1.7,2.2,0.7,0.9,3,8,86,0.3,15,0.5,0.01,0.04,0.07,94,0.05,0,EGGS
+Enchilada,1 Enchld,230,235,16,24,20,['Enchilada'],Enchilada,322,1 ea,230,72,235,2,19,7.7,6.7,0.6,3.3,76,1332,198,1.63,653,1.2,0,0.18,0.26,352,0.25,0,MIXED DISHES AND FAST FOODS
+"English Muffins, Plain",1 Muffin,57,140,1,27,5,"['English', 'Muffins', 'Plain']","English muffin, plain",96,1 ea,57,42,140,1.5,0,0.3,0.2,0.3,1.7,11,378,67,1.43,331,0.4,2.14,0.26,0.18,0,0.02,0,BAKED GOODS
+"English Muffins, Plain, Toastd",1 Muffin,50,140,1,27,5,"['English', 'Muffins', 'Plain', 'Toastd']","English muffin, plain",96,1 ea,57,42,140,1.5,0,0.3,0.2,0.3,1.7,11,378,67,1.43,331,0.4,2.14,0.26,0.18,0,0.02,0,BAKED GOODS
+"Evaporated Milk, Skim, Canned",1 Cup,255,200,1,29,19,"['Evaporated', 'Milk', 'Skim', 'Canned']",Skim Milk,302,1 cup,245,91,86,0,4,0.3,0.1,0,0.1,28,126,247,1.22,406,0.9,0.22,0.09,0.34,149,0.1,2,DAIRY
+"Evaporated Milk, Whole, Canned",1 Cup,252,340,19,25,17,"['Evaporated', 'Milk', 'Whole', 'Canned']",Milk - Whole,291,1 cup,244,88,150,0,33,5.1,2.3,0.3,0.1,33,120,228,1.28,370,0.9,0.2,0.09,0.4,76,0.1,2,DAIRY
+"French Salad Dressing, Regular",1 Tbsp,16,85,9,1,0,"['French', 'Salad', 'Dressing', 'Regular']",Salad Dressing - French Regular,2,1 tbsp,16,35,85,0.1,0,1.4,4,3.5,0.1,1,188,1,2,2,0,0,0,0,0,0.01,0,FATS AND OILS
+"Gin,Rum,Vodka,Whisky 80-Proof",1.5 fl oz,42,95,0,0,0,"['Gin', 'Rum', 'Vodka', 'Whisky', '80', 'Proof']","Gin, Rum, Vodka, Whiskey 80 proof",0,1 1/2 fl oz,42,67,97,0,0,0,0,0,0,0,0.4,2,0,1,0,0.01,0.01,0.01,0,0,0,BEVERAGES
+"Gingerbread Cake, From Mix",1 Cake,570,1575,39,291,18,"['Gingerbread', 'Cake', 'From', 'Mix']",Gingerbread,86,1 slice,95,37,262,0.5,1,1.6,2.7,1.8,1.8,7,289,85,1.01,260,0.9,1.23,0.14,0.17,0,0.01,0,BAKED GOODS
+"Gingerbread Cake, From Mix",1 Piece,63,175,4,32,2,"['Gingerbread', 'Cake', 'From', 'Mix']",Gingerbread,86,1 slice,95,37,262,0.5,1,1.6,2.7,1.8,1.8,7,289,85,1.01,260,0.9,1.23,0.14,0.17,0,0.01,0,BAKED GOODS
+"Graham Cracker, Plain",2 Crackr,14,60,1,11,1,"['Graham', 'Cracker', 'Plain']",Graham crackers,6,2 ea,14,4,60,1.4,0,0.4,0.6,0.4,0.4,5,86,20,0.3,36,0.1,0.6,0.02,0.03,0,0.01,0,BAKED GOODS
+"Grape Drink, Canned",6 fl oz,187,100,0,26,0,"['Grape', 'Drink', 'Canned']",Grape Drink Canned,18,1 cup,250,88,112,0.3,0,0,0,0,0.8,15,34,14,1.29,154,0.1,0.67,0.07,0.04,9,0.1,115,BEVERAGES
+"Grape Juice, Canned",1 Cup,253,155,0,38,1,"['Grape', 'Juice', 'Canned']",Grape Drink Canned,18,1 cup,250,88,112,0.3,0,0,0,0,0.8,15,34,14,1.29,154,0.1,0.67,0.07,0.04,9,0.1,115,BEVERAGES
+Grape-Nuts Cereal,1 oz,28.35,100,0,23,3,"['Grape', 'Nuts', 'Cereal']",Grape Nuts cereal,22,1/2 cup,57,3,202,3.3,0,0,0,0.2,2.5,38,394,142,0.15,190,1.2,10,0.8,0.8,753,1,0,GRAIN PRODUCTS
+"Honeydew Melon, Raw",1/10 Mel,129,45,0,12,1,"['Honeydew', 'Melon', 'Raw']",Honeydew,8,1 pce,129,90,45,1.4,0,0,0,0,0.1,9,13,13,0.62,350,0.1,0.77,0.1,0.02,5,0.08,32,FRUITS
+"Ice Cream, Vanlla, Regulr 11%",1/2 Galn,1064,2155,115,254,38,"['Ice', 'Cream', 'Vanlla', 'Regulr', '11']",Ice Cream Vanilla ,351,1 cup,133,61,269,0,60,8.9,4.1,0.5,0.1,19,116,134,2.62,257,1.4,0.14,0.05,0.33,133,0.06,1,DAIRY
+"Ice Cream, Vanlla, Regulr 11%",1 Cup,133,270,14,32,5,"['Ice', 'Cream', 'Vanlla', 'Regulr', '11']",Ice Cream Vanilla ,351,1 cup,133,61,269,0,60,8.9,4.1,0.5,0.1,19,116,134,2.62,257,1.4,0.14,0.05,0.33,133,0.06,1,DAIRY
+"Ice Cream, Vanlla, Regulr 11%",3 fl oz,50,100,5,12,2,"['Ice', 'Cream', 'Vanlla', 'Regulr', '11']",Ice Cream Vanilla ,351,1 cup,133,61,269,0,60,8.9,4.1,0.5,0.1,19,116,134,2.62,257,1.4,0.14,0.05,0.33,133,0.06,1,DAIRY
+"Italian Salad Dressing,Regular",1 Tbsp,15,80,9,1,0,"['Italian', 'Salad', 'Dressing', 'Regular']",Salad Dressing - Italian Regular,1,1 tbsp,14,34,80,0,0,1.3,3.7,3.2,0,1,162,1,1,5,0,0,0,0,3,0.03,0,FATS AND OILS
+"Lamb,Chops,Arm,Braised,Lean+Ft",2.2 oz,63,220,15,0,20,"['Lamb', 'Chops', 'Arm', 'Braised', 'Lean', 'Ft']",Lamb - Chops lean and fat,16,2.2 oz,63,44,220,0,77,6.9,6,0.9,1.5,11,46,132,0.12,195,2.9,4.4,0.04,0.16,0,0.11,0,MEAT
+"Lamb,Chops,Loin,Broil,Lean+Fat",2.8 oz,80,235,16,0,22,"['Lamb', 'Chops', 'Loin', 'Broil', 'Lean', 'Fat']",Lamb - Chops lean and fat,16,2.2 oz,63,44,220,0,77,6.9,6,0.9,1.5,11,46,132,0.12,195,2.9,4.4,0.04,0.16,0,0.11,0,MEAT
+Lard,1 Cup,205,1850,205,0,0,['Lard'],Lard,0,1/4 cup,54,0,453,0,49,20.1,23.1,5.8,0,0,0,1,0,0,0,0,0,0,0,0,0,FATS AND OILS
+Lard,1 Tbsp,13,115,13,0,0,['Lard'],Lard,0,1/4 cup,54,0,453,0,49,20.1,23.1,5.8,0,0,0,1,0,0,0,0,0,0,0,0,0,FATS AND OILS
+"Lemonade,Concen,Frzen,Diluted",6 fl oz,185,80,0,21,0,"['Lemonade', 'Concen', 'Frzen', 'Diluted']",Lemonade concentrate,15,3/4 cup,219,52,397,0.9,0,0.1,0,0.1,1.6,11,8,19,0.79,148,0.2,0.16,0.06,0.21,21,0.06,39,BEVERAGES
+"Lemonade,Concentrate,Frz,Undil",6 fl oz,219,425,0,112,0,"['Lemonade', 'Concentrate', 'Frz', 'Undil']",Lemonade concentrate,15,3/4 cup,219,52,397,0.9,0,0.1,0,0.1,1.6,11,8,19,0.79,148,0.2,0.16,0.06,0.21,21,0.06,39,BEVERAGES
+"Lettuce, Butterhead, Raw,Head",1 Head,163,20,0,4,2,"['Lettuce', 'Butterhead', 'Raw', 'Head']",Lettuce Butterhead/Boston,52,1 head,163,96,21,2.7,0,0,0,0.2,0.5,18,8,38,1.37,419,0.4,0.49,0.1,0.1,158,0.11,13,VEGETABLES AND LEGUMES
+"Lettuce, Butterhead, Raw,Leave",1 Leaf,15,0,0,0,0,"['Lettuce', 'Butterhead', 'Raw', 'Leave']",Lettuce Butterhead/Boston,52,1 head,163,96,21,2.7,0,0,0,0.2,0.5,18,8,38,1.37,419,0.4,0.49,0.1,0.1,158,0.11,13,VEGETABLES AND LEGUMES
+"Lima Beans, Dry, Cooked,Draned",1 Cup,190,260,1,49,16,"['Lima', 'Beans', 'Dry', 'Cooked', 'Draned']","Lima Beans, thick seeded",19,1/2 cup,85,74,85,4.6,0,0.1,0,0.1,1.2,29,45,54,0.35,347,0.4,0.91,0.06,0.05,16,0.1,11,VEGETABLES AND LEGUMES
+"Lima Beans,Baby, Frzn,Cked,Drn",1 Cup,180,190,1,35,12,"['Lima', 'Beans', 'Baby', 'Frzn', 'Cked', 'Drn']","Lima Beans, thick seeded",19,1/2 cup,85,74,85,4.6,0,0.1,0,0.1,1.2,29,45,54,0.35,347,0.4,0.91,0.06,0.05,16,0.1,11,VEGETABLES AND LEGUMES
+"Lima Beans,Thick Seed,Frzn,Ckd",1 Cup,170,170,1,32,10,"['Lima', 'Beans', 'Thick', 'Seed', 'Frzn', 'Ckd']","Lima Beans, thick seeded",19,1/2 cup,85,74,85,4.6,0,0.1,0,0.1,1.2,29,45,54,0.35,347,0.4,0.91,0.06,0.05,16,0.1,11,VEGETABLES AND LEGUMES
+Lucky Charms Cereal,1 oz,28.35,110,1,23,3,"['Lucky', 'Charms', 'Cereal']",Lucky Charms cereal,36,1 cup,32,3,125,0.7,0,0.2,0.4,0.5,5.1,27,227,88,0.41,66,0.6,5.6,0.4,0.5,424,0.6,17,GRAIN PRODUCTS
+"Margarine, Imitation 40% Fat",8 oz,227,785,88,1,1,"['Margarine', 'Imitation', '40', 'Fat']","Margarine - Regular, hard",34,1/2 cup,113,16,812,0,0,17.9,40.6,28.8,0.1,3,1066,26,1.31,48,0.2,0.03,0.01,0.04,1122,0.01,0,FATS AND OILS
+"Margarine, Imitation 40% Fat",1 Tbsp,14,50,5,0,0,"['Margarine', 'Imitation', '40', 'Fat']","Margarine - Regular, hard",34,1/2 cup,113,16,812,0,0,17.9,40.6,28.8,0.1,3,1066,26,1.31,48,0.2,0.03,0.01,0.04,1122,0.01,0,FATS AND OILS
+"Margarine, Spread,Hard,60% Fat",1/2 Cup,113,610,69,0,1,"['Margarine', 'Spread', 'Hard', '60', 'Fat']",Margarine Spread (60% fat) hard,24,1/2 cup,113,37,610,0,0,15.9,29.3,20.4,0,2,1123,18,1.33,34,0.2,0.02,0.01,0.03,1122,0.01,0,FATS AND OILS
+"Margarine, Spread,Hard,60% Fat",1 Tbsp,14,75,9,0,0,"['Margarine', 'Spread', 'Hard', '60', 'Fat']",Margarine Spread (60% fat) hard,24,1/2 cup,113,37,610,0,0,15.9,29.3,20.4,0,2,1123,18,1.33,34,0.2,0.02,0.01,0.03,1122,0.01,0,FATS AND OILS
+"Margarine, Spread,Hard,60% Fat",1 Pat,5,25,3,0,0,"['Margarine', 'Spread', 'Hard', '60', 'Fat']",Margarine Spread (60% fat) hard,24,1/2 cup,113,37,610,0,0,15.9,29.3,20.4,0,2,1123,18,1.33,34,0.2,0.02,0.01,0.03,1122,0.01,0,FATS AND OILS
+"Margarine, Spread,Soft,60% Fat",8 oz,227,1225,138,0,1,"['Margarine', 'Spread', 'Soft', '60', 'Fat']",Margarine Spread (60% fat) hard,24,1/2 cup,113,37,610,0,0,15.9,29.3,20.4,0,2,1123,18,1.33,34,0.2,0.02,0.01,0.03,1122,0.01,0,FATS AND OILS
+"Margarine, Spread,Soft,60% Fat",1 Tbsp,14,75,9,0,0,"['Margarine', 'Spread', 'Soft', '60', 'Fat']",Margarine Spread (60% fat) hard,24,1/2 cup,113,37,610,0,0,15.9,29.3,20.4,0,2,1123,18,1.33,34,0.2,0.02,0.01,0.03,1122,0.01,0,FATS AND OILS
+Marshmallows,1 oz,28.35,90,0,23,1,['Marshmallows'],Marshmallows,2,4 ea,28,17,90,0,0,0,0,0,0.1,1,55,23,0.09,91,0,0.2,0.01,0.01,0,0.01,0,SWEETENERS AND SWEETS
+"Melba Toast, Plain",1 Piece,5,20,0,4,1,"['Melba', 'Toast', 'Plain']","Melba toast, plain",6,1 pce,5,4,20,0.1,0,0.1,0.1,0.1,0.1,30,44,10,0.6,11,0.4,0.1,0.01,0.01,0,0.01,0,BAKED GOODS
+"Milk, Lofat, 2%, Added Solids",1 Cup,245,125,5,12,9,"['Milk', 'Lofat', '2', 'Added', 'Solids']",Milk - 2% Low Fat,297,1 cup,244,89,121,0,22,2.9,1.3,0.2,0.1,33,122,232,1.28,377,1,0.21,0.1,0.4,140,0.1,2,DAIRY
+"Milk, Lofat, 2%, No Addedsolid",1 Cup,244,120,5,12,8,"['Milk', 'Lofat', '2', 'No', 'Addedsolid']",Milk - 2% Low Fat,297,1 cup,244,89,121,0,22,2.9,1.3,0.2,0.1,33,122,232,1.28,377,1,0.21,0.1,0.4,140,0.1,2,DAIRY
+"Milk, Skim, Added Milk Solids",1 Cup,245,90,1,12,9,"['Milk', 'Skim', 'Added', 'Milk', 'Solids']",Skim Milk,302,1 cup,245,91,86,0,4,0.3,0.1,0,0.1,28,126,247,1.22,406,0.9,0.22,0.09,0.34,149,0.1,2,DAIRY
+"Milk, Skim, No Added Milksolid",1 Cup,245,85,0,12,8,"['Milk', 'Skim', 'No', 'Added', 'Milksolid']",Skim Milk,302,1 cup,245,91,86,0,4,0.3,0.1,0,0.1,28,126,247,1.22,406,0.9,0.22,0.09,0.34,149,0.1,2,DAIRY
+"Mozzarella Cheese, Whole Milk",1 oz,28.35,80,6,1,6,"['Mozzarella', 'Cheese', 'Whole', 'Milk']",Cheese Mozzarella whole milk,147,1 oz,28,54,80,0,22,3.7,1.9,0.2,0,5,106,105,1.4,19,0.7,0.02,0.01,0.07,68,0.02,0,DAIRY
+"Mushrooms, Raw",1 Cup,70,20,0,3,1,"['Mushrooms', 'Raw']",Mushrooms raw sliced,2,1/2 cup,35,92,9,0.8,0,0,0,0.1,0.4,4,1,36,0.06,130,0.3,1.44,0.04,0.16,0,0.03,1,VEGETABLES AND LEGUMES
+"Nectarines, Raw",1 Nectrn,136,65,1,16,1,"['Nectarines', 'Raw']",Nectarines raw without pits,6,1 ea,136,86,67,3.1,0,0.1,0.2,0.3,0.2,11,0,22,0.27,288,0.1,1.35,0.02,0.06,100,0.03,7,FRUITS
+Olive Oil,1 Cup,216,1910,216,0,0,"['Olive', 'Oil']",Oil - Olive,0,1/4 cup,54,0,477,0,0,7.2,40,45,0.2,0,0,1,0,0,0,0,0,0,0,0,0,FATS AND OILS
+Olive Oil,1 Tbsp,14,125,14,0,0,"['Olive', 'Oil']",Oil - Olive,0,1/4 cup,54,0,477,0,0,7.2,40,45,0.2,0,0,1,0,0,0,0,0,0,0,0,0,FATS AND OILS
+"Onions, Raw, Chopped",1 Cup,160,55,0,12,2,"['Onions', 'Raw', 'Chopped']",Onions raw chopped,40,1 cup,160,91,54,2.6,0,0.1,0.1,0.2,0.6,16,3,46,0.87,248,0.3,0.16,0.1,0.02,0,0.25,13,VEGETABLES AND LEGUMES
+"Onions, Raw, Sliced",1 Cup,115,40,0,8,1,"['Onions', 'Raw', 'Sliced']",Onions raw chopped,40,1 cup,160,91,54,2.6,0,0.1,0.1,0.2,0.6,16,3,46,0.87,248,0.3,0.16,0.1,0.02,0,0.25,13,VEGETABLES AND LEGUMES
+"Orange Juice, Chilled",1 Cup,249,110,1,25,2,"['Orange', 'Juice', 'Chilled']",Orange (12 fl oz),19,1 1/2 cups,372,88,177,0,0,0,0,0,0.2,4,46,4,4.75,9,0.4,0,0,0,0,0,0,BEVERAGES
+"Orange Juice, Raw",1 Cup,248,110,0,26,2,"['Orange', 'Juice', 'Raw']",Orange (12 fl oz),19,1 1/2 cups,372,88,177,0,0,0,0,0,0.2,4,46,4,4.75,9,0.4,0,0,0,0,0,0,BEVERAGES
+"Orange Juice,Frozen Concentrte",6 fl oz,213,340,0,81,5,"['Orange', 'Juice', 'Frozen', 'Concentrte']",Orange (12 fl oz),19,1 1/2 cups,372,88,177,0,0,0,0,0,0.2,4,46,4,4.75,9,0.4,0,0,0,0,0,0,BEVERAGES
+"Orange Juice,Frzn,Cncn,Diluted",1 Cup,249,110,0,27,2,"['Orange', 'Juice', 'Frzn', 'Cncn', 'Diluted']",Orange (12 fl oz),19,1 1/2 cups,372,88,177,0,0,0,0,0,0.2,4,46,4,4.75,9,0.4,0,0,0,0,0,0,BEVERAGES
+"Oysters, Raw",1 Cup,240,160,4,8,20,"['Oysters', 'Raw']",Oysters - raw Pacific,202,1 cup,240,85,160,0,120,1.8,0.7,1.8,16.8,54,185,379,0.53,290,74.4,6,0.29,0.43,223,0.13,24,FISH/SHELLFISH
+"Parmesan Cheese, Grated",1 Cup,100,455,30,4,42,"['Parmesan', 'Cheese', 'Grated']",Cheese - Blue,150,1 oz,28,42,100,0,21,5.3,2.2,0.2,0.1,7,396,110,1.36,73,0.8,0.29,0.01,0.11,65,0.05,0,DAIRY
+"Parmesan Cheese, Grated",1 Tbsp,5,25,2,0,2,"['Parmesan', 'Cheese', 'Grated']",Cheese - Blue,150,1 oz,28,42,100,0,21,5.3,2.2,0.2,0.1,7,396,110,1.36,73,0.8,0.29,0.01,0.11,65,0.05,0,DAIRY
+"Parmesan Cheese, Grated",1 oz,28.35,130,9,1,12,"['Parmesan', 'Cheese', 'Grated']",Cheese - Blue,150,1 oz,28,42,100,0,21,5.3,2.2,0.2,0.1,7,396,110,1.36,73,0.8,0.29,0.01,0.11,65,0.05,0,DAIRY
+Peach Pie,1 Pie,945,2410,101,361,24,"['Peach', 'Pie']","Peach pie, piece",27,1 pce,158,48,405,2.8,0,4.1,7.7,4.8,1.9,16,423,55,0.49,235,0.3,2.3,0.17,0.15,93,0.07,5,BAKED GOODS
+Peach Pie,1 Piece,158,405,17,60,4,"['Peach', 'Pie']","Peach pie, piece",27,1 pce,158,48,405,2.8,0,4.1,7.7,4.8,1.9,16,423,55,0.49,235,0.3,2.3,0.17,0.15,93,0.07,5,BAKED GOODS
+Peanut Butter,1 Tbsp,16,95,8,3,5,"['Peanut', 'Butter']",Peanut Butter,5,1 tbsp,16,2,95,1.2,0,1.4,4,2.5,0.3,28,75,60,0.08,110,0.5,2.15,0.02,0.02,0,0.06,0,"NUTS, SEEDS AND PRODUCTS"
+Peanut Oil,1 Cup,216,1910,216,0,0,"['Peanut', 'Oil']",Oil - Peanut,0,1/4 cup,54,0,477,0,0,9.1,25,17.3,0,0,0,1,0,0,0,0,0,0,0,0,0,FATS AND OILS
+Peanut Oil,1 Tbsp,14,125,14,0,0,"['Peanut', 'Oil']",Oil - Peanut,0,1/4 cup,54,0,477,0,0,9.1,25,17.3,0,0,0,1,0,0,0,0,0,0,0,0,0,FATS AND OILS
+"Pears, Raw, Bartlett",1 Pear,166,100,1,25,1,"['Pears', 'Raw', 'Bartlett']",Pears raw Bartlett,19,1 ea,166,84,98,5,0,0,0.1,0.2,0.4,9,1,18,1.06,208,0.2,0.17,0.03,0.07,3,0.03,7,FRUITS
+"Peas, Green,Cnnd,Drnd, W/ Salt",1 Cup,170,115,1,21,8,"['Peas', 'Green', 'Cnnd', 'Drnd', 'W', 'Salt']","Peas, green canned drained",17,1/2 cup,85,82,59,5.4,0,0,0,0.1,0.8,15,186,57,0.3,147,0.6,0.62,0.1,0.07,65,0.05,8,VEGETABLES AND LEGUMES
+"Peas, Green,Cnnd,Drnd,W/O Salt",1 Cup,170,115,1,21,8,"['Peas', 'Green', 'Cnnd', 'Drnd', 'W', 'O', 'Salt']","Peas, green canned drained",17,1/2 cup,85,82,59,5.4,0,0,0,0.1,0.8,15,186,57,0.3,147,0.6,0.62,0.1,0.07,65,0.05,8,VEGETABLES AND LEGUMES
+"Pepper, Black",1 Tsp,2.1,5,0,1,0,"['Pepper', 'Black']",Pepper black,9,1 tsp,2,11,5,0.3,0,0,0,0,0.5,4,1,3.67,2.45,26.7,0,0.02,0.01,0.01,0,0,0,MISCELLANEOUS
+"Pineapple, Raw, Diced",1 Cup,155,75,1,19,1,"['Pineapple', 'Raw', 'Diced']","Pineapple raw chunks, dices",11,1 cup,155,86,76,2.9,0,0,0.1,0.2,0.6,21,2,11,1,175,0.1,0.65,0.14,0.06,4,0.14,24,FRUITS
+"Pinto Beans,Dry,Cooked,Drained",1 Cup,180,265,1,49,15,"['Pinto', 'Beans', 'Dry', 'Cooked', 'Drained']",Pinto Beans cooked from dry,86,1 cup,180,66,265,18.9,0,0.1,0.1,0.5,5.4,103,3,296,0.29,882,2.4,0.7,0.33,0.16,1,0.33,0,VEGETABLES AND LEGUMES
+"Popcorn, Air-Popped, Unsalted",1 Cup,8,30,0,6,1,"['Popcorn', 'Air', 'Popped', 'Unsalted']","Popcorn, air popped plain",1,1 cup,8,4,30,1.4,0,0,0.1,0.2,0.2,23,0.5,22,0.05,20,0.2,0.2,0.03,0.01,1,0.02,0,GRAIN PRODUCTS
+"Popcorn, Popped, Veg Oil,Saltd",1 Cup,11,55,3,6,1,"['Popcorn', 'Popped', 'Veg', 'Oil', 'Saltd']",Oil - Corn,0,1/4 cup,54,0,482,0,0,6.9,13.2,32,0,0,0,1,0,0,0.1,0,0,0,0,0,0,FATS AND OILS
+"Pork Chop, Loin, Broil, Len+Ft",3.1 oz,87,275,19,0,24,"['Pork', 'Chop', 'Loin', 'Broil', 'Len', 'Ft']","Pork - Chops, Broiled lean & fat",4,3.1 oz,87,50,275,0,84,7,8.8,2.2,0.7,22,61,184,0.02,312,1.7,4.35,0.87,0.24,3,0.35,0.3,MEAT
+"Pork Chop, Loin,Panfry,Lean+Ft",3.1 oz,89,335,27,0,21,"['Pork', 'Chop', 'Loin', 'Panfry', 'Lean', 'Ft']","Pork - Chops, Broiled lean & fat",4,3.1 oz,87,50,275,0,84,7,8.8,2.2,0.7,22,61,184,0.02,312,1.7,4.35,0.87,0.24,3,0.35,0.3,MEAT
+"Pork Fresh Rib, Roastd,Lean+Ft",3 oz,85,270,20,0,21,"['Pork', 'Fresh', 'Rib', 'Roastd', 'Lean', 'Ft']","Pork - Chops, Broiled lean & fat",4,3.1 oz,87,50,275,0,84,7,8.8,2.2,0.7,22,61,184,0.02,312,1.7,4.35,0.87,0.24,3,0.35,0.3,MEAT
+"Potatoes, Baked Flesh Only",1 Potato,156,145,0,34,3,"['Potatoes', 'Baked', 'Flesh', 'Only']",Potatoes mashed,55,1 cup,210,78,162,1.2,4,0.7,0.3,0.1,0.6,39,636,100,0.55,628,0.6,2.35,0.18,0.08,12,0.49,14,VEGETABLES AND LEGUMES
+"Potatoes, Baked With Skin",1 Potato,202,220,0,51,5,"['Potatoes', 'Baked', 'With', 'Skin']",Potatoes mashed,55,1 cup,210,78,162,1.2,4,0.7,0.3,0.1,0.6,39,636,100,0.55,628,0.6,2.35,0.18,0.08,12,0.49,14,VEGETABLES AND LEGUMES
+"Potatoes, Boiled, Peeled After",1 Potato,136,120,0,27,3,"['Potatoes', 'Boiled', 'Peeled', 'After']",Potatoes mashed,55,1 cup,210,78,162,1.2,4,0.7,0.3,0.1,0.6,39,636,100,0.55,628,0.6,2.35,0.18,0.08,12,0.49,14,VEGETABLES AND LEGUMES
+"Potatoes, Boiled, Peeled Befor",1 Potato,135,115,0,27,2,"['Potatoes', 'Boiled', 'Peeled', 'Befor']",Potatoes mashed,55,1 cup,210,78,162,1.2,4,0.7,0.3,0.1,0.6,39,636,100,0.55,628,0.6,2.35,0.18,0.08,12,0.49,14,VEGETABLES AND LEGUMES
+"Potatoes,French-Frd,Frzn,Fried",10 Strip,50,160,8,20,2,"['Potatoes', 'French', 'Frd', 'Frzn', 'Fried']",French fries fried in veg oil,10,10 strips,50,38,158,1.6,0,2.5,1.6,3.8,0.4,17,108,47,0.21,366,0.2,1.63,0.09,0.01,0,0.12,5,VEGETABLES AND LEGUMES
+"Pretzels, Twisted, Dutch",1 Pretz,16,65,1,13,2,"['Pretzels', 'Twisted', 'Dutch']","Pretzels, thin sticks",1,10 ea,3,2,10,0.1,0,0,0,0,0.1,1,48,3,0.33,3,0,0.13,0.01,0.01,0,0.01,0,BAKED GOODS
+"Pretzels, Twisted, Thin",10 Pretz,60,240,2,48,6,"['Pretzels', 'Twisted', 'Thin']","Pretzels, thin sticks",1,10 ea,3,2,10,0.1,0,0,0,0,0.1,1,48,3,0.33,3,0,0.13,0.01,0.01,0,0.01,0,BAKED GOODS
+"Pudding, Chocolate,Canned",5 oz,142,205,11,30,3,"['Pudding', 'Chocolate', 'Canned']",Pudding canned Chocolate,74,5 oz,142,68,205,0.1,1,9.5,0.5,0.1,1.2,24,285,117,0.63,254,0.7,0.6,0.04,0.17,31,0.03,0,DAIRY
+Raisins,1 Cup,145,435,1,115,5,['Raisins'],"Raisins, seedless",71,1 cup,145,15,435,9.6,0,0.2,0,0.2,3,48,17,140,0.51,1089,0.5,1.19,0.23,0.13,1,0.36,5,FRUITS
+Raisins,1 Packet,14,40,0,11,0,['Raisins'],"Raisins, seedless",71,1 cup,145,15,435,9.6,0,0.2,0,0.2,3,48,17,140,0.51,1089,0.5,1.19,0.23,0.13,1,0.36,5,FRUITS
+Root Beer,12 fl oz,370,165,0,42,0,"['Root', 'Beer']",Root Beer (12 fl oz),19,1 1/2 cups,370,89,152,0,0,0,0,0,0.2,4,49,2,9.5,3,0.3,0,0,0,0,0,0,BEVERAGES
+"Salmon, Baked, Red",3 oz,85,140,5,0,21,"['Salmon', 'Baked', 'Red']",Salmon - Broiled or baked,26,3 oz,85,67,140,0,60,1.2,2.4,1.4,0.5,26,55,269,0.1,305,0.9,5.5,0.18,0.14,87,0.68,0,FISH/SHELLFISH
+Swiss Cheese,1 oz,28.35,105,8,1,8,"['Swiss', 'Cheese']",Cheese - Swiss,272,1 oz,28,37,107,0,26,5,2.1,0.3,0,10,74,171,1.59,31,1.1,0.03,0.01,0.1,72,0.02,0,DAIRY
+"Tea, Brewed",8 fl oz,240,0,0,0,0,"['Tea', 'Brewed']",Tea Brewed,0,1 cup,240,99,2,0,0,0,0,0,0,7,6.7,1,0,89,0,0.1,0,0.03,0,0,0,BEVERAGES
+Trix Cereal,1 oz,28.35,110,0,25,2,"['Trix', 'Cereal']",Trix cereal,6,1 cup,28,2,108,0.2,0,0.2,0.1,0.1,4.5,6,179,19,0.32,26,0.1,4.9,0.4,0.4,375,0.5,15,GRAIN PRODUCTS
+"Turkey Roast, Frzn,Lght+Drk,Ck",3 oz,85,130,5,3,18,"['Turkey', 'Roast', 'Frzn', 'Lght', 'Drk', 'Ck']","Turkey - Roasted whole, slices",21,3 oz,85,65,145,0,64,1.4,0.9,1.2,1.5,22,60,181,0.12,254,2.6,4.63,0.05,0.15,0,0.39,0,POULTRY
+"Turkey, Roasted, Light + Dark",1 Cup,140,240,7,0,41,"['Turkey', 'Roasted', 'Light', 'Dark']","Turkey - Roasted whole, slices",21,3 oz,85,65,145,0,64,1.4,0.9,1.2,1.5,22,60,181,0.12,254,2.6,4.63,0.05,0.15,0,0.39,0,POULTRY
+"Turkey, Roasted, Light + Dark",3 Pieces,85,145,4,0,25,"['Turkey', 'Roasted', 'Light', 'Dark']","Turkey - Roasted whole, slices",21,3 oz,85,65,145,0,64,1.4,0.9,1.2,1.5,22,60,181,0.12,254,2.6,4.63,0.05,0.15,0,0.39,0,POULTRY
+"Vegetable Juice Cocktail, Cnnd",1 Cup,242,45,0,11,2,"['Vegetable', 'Juice', 'Cocktail', 'Cnnd']",Vegetable juice cocktail canned,27,1 cup,242,94,46,1.5,0,0,0,0.1,1,27,883,41,0.66,467,0.5,1.76,0.1,0.07,283,0.34,67,VEGETABLES AND LEGUMES
+"White Bread Crumbs, Soft",1 Cup,45,120,2,22,4,"['White', 'Bread', 'Crumbs', 'Soft']","Bread crumbs, dry grated",122,1 cup,100,7,390,4,5,1.5,1.6,1,4.1,31,736,141,0.87,152,0.5,4.8,0.35,0.35,0,0.02,0,BAKED GOODS
+White Bread Cubes,1 Cup,30,80,1,15,2,"['White', 'Bread', 'Cubes']","Bread crumbs, dry grated",122,1 cup,100,7,390,4,5,1.5,1.6,1,4.1,31,736,141,0.87,152,0.5,4.8,0.35,0.35,0,0.02,0,BAKED GOODS
+Whole-Wheat Bread,1 Loaf,454,1110,20,206,44,"['Whole', 'Wheat', 'Bread']","Bread crumbs, dry grated",122,1 cup,100,7,390,4,5,1.5,1.6,1,4.1,31,736,141,0.87,152,0.5,4.8,0.35,0.35,0,0.02,0,BAKED GOODS
+Whole-Wheat Bread,1 Slice,28,70,1,13,3,"['Whole', 'Wheat', 'Bread']","Bread crumbs, dry grated",122,1 cup,100,7,390,4,5,1.5,1.6,1,4.1,31,736,141,0.87,152,0.5,4.8,0.35,0.35,0,0.02,0,BAKED GOODS
+"Yellow Cake W/ Choc Frst,Frmix",1 Cake,1108,3735,125,638,45,"['Yellow', 'Cake', 'W', 'Choc', 'Frst', 'Frmix']",Yellow cake,23,1 pce,69,23,245,0.3,38,5.7,3.7,0.6,1.2,4,192,117,0.2,123,0.2,0.62,0.05,0.14,30,0.03,0,BAKED GOODS
+"Yellow Cake W/ Choc Frst,Frmix",1 Piece,69,235,8,40,3,"['Yellow', 'Cake', 'W', 'Choc', 'Frst', 'Frmix']",Yellow cake,23,1 pce,69,23,245,0.3,38,5.7,3.7,0.6,1.2,4,192,117,0.2,123,0.2,0.62,0.05,0.14,30,0.03,0,BAKED GOODS
