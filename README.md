@@ -26,3 +26,7 @@ A table of skills in **Cleaned_Skillv4_v5_surface_and_standard_form_20180822.csv
 
 - "Add New Rows" 
    If a skill is not parsed, you can click on add new rows to *add that skill*. 
+
+### App interface and results
+
+![alt text](Skill_Parser/Interface.PNG)
