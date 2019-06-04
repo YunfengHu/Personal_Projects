@@ -1,0 +1,10 @@
+MM212 College Algebra
+CTL REVIEW REQUEST
+CTL Course: Algebra, College
+CTL Category: Math
+COURSE INFORMATION
+ Course Title:  	College Algebra
+Credit Hours: 	5 (Quarter)
+Prerequisites: 	None
+COURSE DESCRIPTION
+ This course covers topics of algebra including linear functions, equations and inequalities, systems of equations with two variables, polynomial functions, rational and radical equations and inequalities, exponential and logarithmic functions, ratios, proportions, variation, and graphing.
